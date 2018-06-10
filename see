@@ -9,16 +9,47 @@
 	<meta name="keywords" content="polska,słownictwo  "/>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
+<style>
+#container
+	{
+	width 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+#logo
+{
+backround-color: black;
+color: white
+text-align: center;
+padding: 15px;
+}
+#content
+{
+padding: 20px;
+width: 960px;
+min-heigh: 720px;
+backround-color:lightblue
 
+}
+#footer
+{
+backround-color: red
+color: white
+text-align: center;
+padding: 15px;
+
+}
+<style/>
 	
 	</head>
 
 <body>
-	
-
+	<div id="container">
+		<div id="logo">
 		<h1>Czemu tak jest nazywana? <h1/>
-	
-	<h3>Czemu polska nazywana jest wielkim narodem<h3> <br/>
+		<div/>
+		<div id="content">
+		<h3>Czemu polska nazywana jest wielkim narodem<h3> <br/>
 	<h3>skoro przecież<h3>
 			<a href=https://pl.wikipedia.org/wiki/Powierzchnia_Polski target="blanc" title="troche fajnych info">powieszchnia<a/>jej nie jest  aż taka duża.<bl/>
 			<img https://pl.maps-poland.com/img/0/polska-na-mapie-%C5%9Bwiata.jpg />
@@ -46,13 +77,14 @@
 			<a href=https://pl.wikipedia.org/wiki/Dywizjon_303 target="blanc" title="krótkie info o książce" >Dywizjon 303 <a/>.
 			<img http://i1.memy.pl/obrazki/b302895760_oby_tak_dalej.jpg  /> 
 	<br/><h3> Nowe wpisy będą się pokazywać co tydzień.<h3>	
-	
-	
-	
+		<div/>
+		
+	<div id="footer">	
 		<h4>Krótka inforamcja odnosnie kontaktu <h4>
 	<h4><br/>Dziękuję, że	ktoś poświęcił na to chwilę uwagi ,uczeń Ekosu klasy 2b Paweł Gawroński<h4>
 	<h4><br/>e-mail pawel_gawronski@ekos.edu.pl<h4>
-	
+	<div/>
+	<div/>
 		
 </body>
 
