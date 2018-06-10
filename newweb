@@ -16,8 +16,7 @@
 	margin-left auto;
 	margin-right auto;
 	#logo{
-	backround-color: grey;
-	color: red;
+	
 	text-align: center;
 	}
 	#content
